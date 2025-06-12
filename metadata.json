@@ -1,0 +1,5 @@
+{
+  "name": "IntelliFin - Financial Data Processor",
+  "description": "A React web application to upload, process, and view financial data. It interacts with a backend API that leverages LLMs for data validation and analysis.",
+  "requestFramePermissions": []
+}
